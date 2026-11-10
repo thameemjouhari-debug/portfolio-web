@@ -1,0 +1,29 @@
+{
+  "site": {
+    "name": "Mohammed Thameem Jouhari",
+    "about": "I’m Mohammed Thameem Jouhari, a graphic designer shaping brands, visual identities and social media design under Creov Canvas. I pair the craft of Adobe Photoshop and Illustrator with AI tools to turn simple ideas into clear, memorable visuals.",
+    "skills": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "AI Tools"
+    ],
+    "photo": "",
+    "theme": "light",
+    "speed": 70,
+    "categories": [
+      "Branding",
+      "Poster Design",
+      "Social Media",
+      "Flyer & Brochure",
+      "Wedding Posters"
+    ],
+    "contact": {
+      "mail": "thameemjouhari@gmail.com",
+      "be": "https://www.behance.net/designsinq",
+      "ig": "https://www.instagram.com/creov_canvas",
+      "li": "https://in.linkedin.com/in/muhammed-thameem-23b028429",
+      "ph": "+91 93856 38352"
+    }
+  },
+  "projects": []
+}
