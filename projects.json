@@ -1,6 +1,7 @@
 {
   "site": {
     "name": "Mohammed Thameem Jouhari",
+    "title": "Creov Canvas — Graphic Designer Portfolio",
     "about": "I’m Mohammed Thameem Jouhari, a graphic designer shaping brands, visual identities and social media design under Creov Canvas. I pair the craft of Adobe Photoshop and Illustrator with AI tools to turn simple ideas into clear, memorable visuals.",
     "skills": [
       "Adobe Photoshop",
@@ -8,27 +9,44 @@
       "AI Tools"
     ],
     "photo": "",
-    "theme": "light",
-    "speed": 70,
-    "categories": [
+    "logo": "",
+    "cue": "Scroll ↓",
+    "footer": "© Creov Canvas",
+    "c": {
+      "mail": "thameemjouhari@gmail.com",
+      "be": "https://www.behance.net/designsinq",
+      "ig": "https://www.instagram.com/creov_canvas",
+      "li": "https://in.linkedin.com/in/muhammed-thameem-23b028429",
+      "ph": "+91 93856 38352"
+    },
+    "links": [],
+    "nav": {
+      "home": "Home",
+      "works": "Works",
+      "contact": "Contact"
+    },
+    "cats": [
       "Branding",
       "Poster Design",
       "Social Media",
       "Flyer & Brochure",
       "Wedding Posters"
     ],
-    "contact": {
-      "mail": "thameemjouhari@gmail.com",
-      "be": "https://www.behance.net/designsinq",
-      "ig": "https://www.instagram.com/creov_canvas",
-      "li": "https://in.linkedin.com/in/muhammed-thameem-23b028429",
-      "ph": "+91 93856 38352"
-    }
+    "maxC": 5,
+    "maxP": 10,
+    "speed": 9,
+    "theme": "light",
+    "bg": "#ffffff",
+    "ink": "#000000",
+    "font": "Poppins",
+    "order": [
+      "home",
+      "works",
+      "cats",
+      "contact"
+    ],
+    "hide": [],
+    "custom": {}
   },
-  "projects": [
-    {
-      "category": "Poster Design",
-      "image": "images/1794312310819-7-01.jpg"
-    }
-  ]
+  "projects": []
 }
